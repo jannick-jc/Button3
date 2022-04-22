@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+
+}
+
+button{ 
+	position: absolute;   
+	height: auto; width: 100px;    
+	left: 500px; top: 9px;
+}
+
+p{
+    position: absolute;   
+	height: auto; width: 100px;    
+	left: 500px; top: 50px;
+}
+
+ul { 
+    padding-left: 500px;
+    padding-top: 50px;
+ }
+
